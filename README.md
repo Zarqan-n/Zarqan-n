@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Zarqan-n
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning in college 1st year
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I never get bored while coding
+# Hi, I'm Zarqan
 
-<!---
-Zarqan-n/Zarqan-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer focused on backend engineering, scalable APIs, and modern web applications.
+
+## Tech Stack
+- Frontend: React, Tailwind CSS, Vite
+- Backend: Node.js, Express.js
+- Database: PostgreSQL, MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
+- Learning: Docker, AWS, System Design
+
+## Current Focus
+- Backend architecture
+- Authentication systems
+- REST APIs
+- DevOps fundamentals
+- DSA and problem solving
+
+## Featured Project
+### EduConnect
+A full-stack learning platform connecting students, teachers, and institutions.
+
+Features:
+- Authentication & Authorization
+- Role-based access
+- Course management
+- REST APIs
+- PostgreSQL integration
+
+## Achievements
+- Winner of College HackFest
+- Built multiple API integration projects
+
+## Links
+Portfolio: your-link  
+LinkedIn: your-link  
+Email: itszarqan@gmail.com
