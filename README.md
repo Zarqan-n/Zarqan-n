@@ -32,6 +32,6 @@ Features:
 - Built multiple API integration projects
 
 ## Links
-Portfolio: your-link  
-LinkedIn: your-link  
+Portfolio: [your-link](https://zarqan.netlify.app/)  
+LinkedIn: [your-link](https://www.linkedin.com/in/zarqan-nazeer-08844739a/)  
 Email: itszarqan@gmail.com
